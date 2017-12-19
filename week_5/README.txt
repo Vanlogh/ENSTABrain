@@ -1,4 +1,4 @@
-This folder contains the 5th week of ENSTABrain.
+This folder contains the files from the 5th week's session of ENSTABrain.
 
-During this course, we implement our first neural network from scratch and create a small implementation of a customizable network.
+During this week, we implement our first Neural Network from scratch and create a small implementation of a customizable network.
 
