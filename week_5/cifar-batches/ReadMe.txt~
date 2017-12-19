@@ -1,0 +1,3 @@
+In order to replicate, download the cifar 10 dataset from this link:
+
+extract all the batches inside this folder and run "data extraction.ipynb" in order to get the /data/data.csv
