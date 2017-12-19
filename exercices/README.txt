@@ -1,3 +1,3 @@
-This folder contains all exercices we send to students as homework.
+This folder contains all the exercices we sent to students as homework.
 
 Exercices are classified by subject.
