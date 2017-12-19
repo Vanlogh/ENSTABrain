@@ -1,3 +1,3 @@
-This folder contains the week 3 of ENSTABrain.
+This folder contains the files from week 3 of ENSTABrain.
 
-during this session we tried forecasting google stocks using basic regression models.
+During this session, we tried to forecast Google stocks using basic Regression models.
