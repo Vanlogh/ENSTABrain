@@ -18,8 +18,8 @@ All of the courses are only available in .ipynb form. That's why you need to lea
 # Have fun Learning! 
 Contact us: enstabrain@gmail.com
 
-PS: To clone our repository, you can just download Gitbash for Windows from:  http://gitforwindows.org/
-and then just use: 
+PS: To clone our repository, you can just download Git bash for Windows from:  http://gitforwindows.org/
+and then just use in the Git bash shell: 
 ```shell
 $  git clone https://github.com/Vanlogh/ENSTABrain
 ```
