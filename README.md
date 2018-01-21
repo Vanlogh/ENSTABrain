@@ -1,5 +1,5 @@
 # ENSTABrain
-<a target="_blank" href="http://www.hostingpics.net" title="Hebergeur d'image"><img src="https://img15.hostingpics.net/pics/345300LogoEB.png" border="0" alt="Hebergeur d'image" /></a>
+<a href="https://www.noelshack.com/2018-03-7-1516544924-enstabrain.png"><img src="https://image.noelshack.com/minis/2018/03/7/1516544924-enstabrain.png" border="0" alt="1516544924-enstabrain.png - envoi d'image avec NoelShack" title="1516544924-enstabrain.png"/></a>
 
 ENSTABrain is a university club from Tunisia that provides weekly Machine Learning lessons
 You can find more on our Facebook Group : [ENSTABrain Classroom](https://www.facebook.com/groups/ENSTABrainClassroom/)
