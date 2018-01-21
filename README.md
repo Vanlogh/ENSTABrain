@@ -1,5 +1,7 @@
 # ENSTABrain
-<a style="text-align:center;" href="http://zupimages.net/viewer.php?id=18/03/ko07.png"><img src="https://zupimages.net/up/18/03/ko07.png" alt="" /></a>
+<p align="center">
+<a href="http://zupimages.net/viewer.php?id=18/03/ko07.png"><img src="https://zupimages.net/up/18/03/ko07.png" alt="" /></a>
+ </p>
 
 ENSTABrain is a university club from Tunisia that provides weekly Machine Learning lessons
 You can find more on our Facebook Group : [ENSTABrain Classroom](https://www.facebook.com/groups/ENSTABrainClassroom/)
